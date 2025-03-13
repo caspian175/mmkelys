@@ -5,6 +5,13 @@ body {
     padding: 20px;
 }
 
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+    color: #5c3b24;
+    font-weight: normal;
+}
+
 .catalogo {
     display: flex;
     flex-direction: column;
