@@ -2,19 +2,19 @@ document.addEventListener("DOMContentLoaded", function () {
     const productos = [
         {
             nombre: "Collar #1",
-            imagen: "imagen1.jpg",
+            imagen: "/imgs/collar1.png",
             colores: ["rojo", "amarillo", "gris", "blanco", "negro"],
             precio: "$5.00"
         },
         {
             nombre: "Collar #2",
-            imagen: "imagen2.jpg",
+            imagen: "/imgs/collar2.png",
             colores: ["rosa", "verde", "azul"],
             precio: "$5.00"
         },
         {
             nombre: "Collar #3",
-            imagen: "imagen3.jpg",
+            imagen: "/imgs/collar3.png.jpg",
             colores: ["rojo", "naranja", "amarillo", "verde", "azul", "morado", "rosa", "blanco", "negro"],
             precio: "$5.00"
         }
